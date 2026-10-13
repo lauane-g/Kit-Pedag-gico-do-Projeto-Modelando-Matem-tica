@@ -1,4 +1,3 @@
-# Kit-Pedagogico-do-Projeto-Modelando-Matematica
 # Kit de Objetos de Aprendizagem de Matemática
 
 Repositório do projeto de extensão **Modelando Matemática** (UFBA), em articulação
