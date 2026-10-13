@@ -17,8 +17,6 @@ a democratização de tecnologias acessíveis no ensino da Matemática.
 
 Público-alvo: Ensino Fundamental (6 a 14 anos) · Tempo estimado: 40 minutos · 
 
-## O que há no repositório
-
 - `modelos-3d/`: arquivos para impressão 3D
 - `corte-mdf/`: arquivos para corte em MDF
 - `fichas-pedagogicas/`: fichas de cada objeto, com guia metodológico passo a
